@@ -41,5 +41,3 @@ jobs:
           git add README.md
           git commit -m "Update OSS contributions"
           git push
-
-# touch to trigger workflow registration
