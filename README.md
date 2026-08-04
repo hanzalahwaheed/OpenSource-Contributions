@@ -6,12 +6,12 @@
 
 | metric | count |
 | --- | ---: |
-| merged pull requests | 38 |
+| merged pull requests | 39 |
 | pull requests opened | 49 |
 | issues filed | 56 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-03 to 2026-08-03</sub>
+<sub>window: 2025-08-04 to 2026-08-04</sub>
 
 ## monthly activity
 
@@ -32,12 +32,12 @@
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 25 stars
 
-27 merged · 2 open · 3 closed
+28 merged · 1 open · 3 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
 | 2026-07-30 | open | +2261/-60 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
-| 2026-07-25 | open | +672/-1 | [feat: add formula columns via sandboxed addFormulaCol transformation](https://github.com/c2siorg/dataloom/pull/463) |
+| 2026-07-25 | merged | +763/-1 | [feat: add formula columns via sandboxed addFormulaCol transformation](https://github.com/c2siorg/dataloom/pull/463) |
 | 2026-07-14 | merged | +1716/-2 | [feat: add data quality assessment feature](https://github.com/c2siorg/dataloom/pull/444) |
 | 2026-07-13 | merged | +415/-139 | [chore: migrate transform forms to TypeScript and wire TS into the lint toolchain](https://github.com/c2siorg/dataloom/pull/438) |
 | 2026-07-05 | merged | +1312/-12 | [feat: add more files to an existing project with append and file inve…](https://github.com/c2siorg/dataloom/pull/422) |
@@ -69,7 +69,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18191 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18193 stars
 
 5 merged · 0 open · 2 closed
 
@@ -93,7 +93,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25595 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25601 stars
 
 1 merged · 0 open · 0 closed
 
@@ -126,7 +126,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11153 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11154 stars
 
 0 merged · 0 open · 1 closed
 
@@ -142,4 +142,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-03</sub>
+<sub>last updated 2026-08-04</sub>
