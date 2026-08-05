@@ -11,7 +11,7 @@
 | issues filed | 56 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-04 to 2026-08-04</sub>
+<sub>window: 2025-08-05 to 2026-08-05</sub>
 
 ## monthly activity
 
@@ -36,7 +36,7 @@
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
-| 2026-07-30 | open | +2261/-60 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
+| 2026-07-30 | open | +2488/-78 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
 | 2026-07-25 | merged | +763/-1 | [feat: add formula columns via sandboxed addFormulaCol transformation](https://github.com/c2siorg/dataloom/pull/463) |
 | 2026-07-14 | merged | +1716/-2 | [feat: add data quality assessment feature](https://github.com/c2siorg/dataloom/pull/444) |
 | 2026-07-13 | merged | +415/-139 | [chore: migrate transform forms to TypeScript and wire TS into the lint toolchain](https://github.com/c2siorg/dataloom/pull/438) |
@@ -69,7 +69,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18193 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18198 stars
 
 5 merged · 0 open · 2 closed
 
@@ -93,7 +93,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25601 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25605 stars
 
 1 merged · 0 open · 0 closed
 
@@ -101,7 +101,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1243 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1244 stars
 
 1 merged · 0 open · 0 closed
 
@@ -126,7 +126,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11154 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11155 stars
 
 0 merged · 0 open · 1 closed
 
@@ -142,4 +142,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-04</sub>
+<sub>last updated 2026-08-05</sub>
