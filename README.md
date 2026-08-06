@@ -11,7 +11,7 @@
 | issues filed | 56 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-05 to 2026-08-05</sub>
+<sub>window: 2025-08-06 to 2026-08-06</sub>
 
 ## monthly activity
 
@@ -93,7 +93,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25605 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25610 stars
 
 1 merged · 0 open · 0 closed
 
@@ -126,7 +126,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11155 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11154 stars
 
 0 merged · 0 open · 1 closed
 
@@ -142,4 +142,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-05</sub>
+<sub>last updated 2026-08-06</sub>
