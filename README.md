@@ -6,17 +6,17 @@
 
 | metric | count |
 | --- | ---: |
-| merged pull requests | 40 |
+| merged pull requests | 39 |
 | pull requests opened | 49 |
-| issues filed | 56 |
+| issues filed | 55 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-11 to 2026-08-11</sub>
+<sub>window: 2025-08-12 to 2026-08-12</sub>
 
 ## monthly activity
 
 ```
-2025-08    4  ████
+2025-08    2  ██
 2025-10   14  ██████████████
 2025-12    2  ██
 2026-01    1  █
@@ -26,17 +26,18 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08    1  █
+2026-08    2  ██
 ```
 
 ## repositories
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 25 stars
 
-29 merged · 0 open · 3 closed
+29 merged · 1 open · 3 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
+| 2026-08-11 | open | +2525/-78 | [feat: downloadable PDF project reports](https://github.com/c2siorg/dataloom/pull/482) |
 | 2026-07-30 | merged | +2557/-115 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
 | 2026-07-25 | merged | +763/-1 | [feat: add formula columns via sandboxed addFormulaCol transformation](https://github.com/c2siorg/dataloom/pull/463) |
 | 2026-07-14 | merged | +1716/-2 | [feat: add data quality assessment feature](https://github.com/c2siorg/dataloom/pull/444) |
@@ -70,9 +71,9 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18204 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18209 stars
 
-5 merged · 0 open · 2 closed
+4 merged · 0 open · 2 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
@@ -82,7 +83,6 @@
 | 2025-10-16 | merged | +5/-34 | [fix: cleanup ConversationBubble and fix CopyButton](https://github.com/arc53/DocsGPT/pull/2073) |
 | 2025-10-07 | merged | +7/-1 | [fix(ui): centered title due to improper obj check](https://github.com/arc53/DocsGPT/pull/2040) |
 | 2025-10-01 | merged | +27/-28 | [Feat: UI enhancements](https://github.com/arc53/DocsGPT/pull/1999) |
-| 2025-08-11 | merged | +59/-93 | [fix: always show the response bubble buttons.](https://github.com/arc53/DocsGPT/pull/1920) |
 
 ### [precice/precice.github.io](https://github.com/precice/precice.github.io) · 29 stars
 
@@ -94,7 +94,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25629 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25639 stars
 
 1 merged · 0 open · 0 closed
 
@@ -127,7 +127,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11162 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11164 stars
 
 0 merged · 0 open · 1 closed
 
@@ -143,4 +143,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-11</sub>
+<sub>last updated 2026-08-12</sub>
