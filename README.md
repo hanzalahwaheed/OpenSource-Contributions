@@ -11,7 +11,7 @@
 | issues filed | 54 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-14 to 2026-08-14</sub>
+<sub>window: 2025-08-15 to 2026-08-15</sub>
 
 ## monthly activity
 
@@ -71,7 +71,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18215 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18216 stars
 
 4 merged · 0 open · 2 closed
 
@@ -94,7 +94,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25705 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25711 stars
 
 1 merged · 0 open · 0 closed
 
@@ -143,4 +143,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-14</sub>
+<sub>last updated 2026-08-15</sub>
