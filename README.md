@@ -7,11 +7,11 @@
 | metric | count |
 | --- | ---: |
 | merged pull requests | 39 |
-| pull requests opened | 49 |
+| pull requests opened | 50 |
 | issues filed | 54 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-15 to 2026-08-15</sub>
+<sub>window: 2025-08-16 to 2026-08-16</sub>
 
 ## monthly activity
 
@@ -26,17 +26,18 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08    2  ██
+2026-08    3  ███
 ```
 
 ## repositories
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 25 stars
 
-29 merged · 1 open · 3 closed
+29 merged · 2 open · 3 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
+| 2026-08-15 | open | +2627/-160 | [chore: migrate utils, constants and config to TypeScript](https://github.com/c2siorg/dataloom/pull/483) |
 | 2026-08-11 | open | +2525/-78 | [feat: downloadable PDF project reports](https://github.com/c2siorg/dataloom/pull/482) |
 | 2026-07-30 | merged | +2557/-115 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
 | 2026-07-25 | merged | +763/-1 | [feat: add formula columns via sandboxed addFormulaCol transformation](https://github.com/c2siorg/dataloom/pull/463) |
@@ -71,7 +72,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18216 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18215 stars
 
 4 merged · 0 open · 2 closed
 
@@ -94,7 +95,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25711 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25717 stars
 
 1 merged · 0 open · 0 closed
 
@@ -102,7 +103,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1246 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1247 stars
 
 1 merged · 0 open · 0 closed
 
@@ -143,4 +144,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-15</sub>
+<sub>last updated 2026-08-16</sub>
