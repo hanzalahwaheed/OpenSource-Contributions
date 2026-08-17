@@ -11,7 +11,7 @@
 | issues filed | 54 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-16 to 2026-08-16</sub>
+<sub>window: 2025-08-17 to 2026-08-17</sub>
 
 ## monthly activity
 
@@ -72,7 +72,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18215 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18216 stars
 
 4 merged · 0 open · 2 closed
 
@@ -95,7 +95,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25717 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25720 stars
 
 1 merged · 0 open · 0 closed
 
@@ -103,7 +103,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1247 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1246 stars
 
 1 merged · 0 open · 0 closed
 
@@ -128,7 +128,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11164 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11159 stars
 
 0 merged · 0 open · 1 closed
 
@@ -144,4 +144,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-16</sub>
+<sub>last updated 2026-08-17</sub>
