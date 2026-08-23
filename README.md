@@ -6,12 +6,12 @@
 
 | metric | count |
 | --- | ---: |
-| merged pull requests | 41 |
-| pull requests opened | 52 |
+| merged pull requests | 42 |
+| pull requests opened | 53 |
 | issues filed | 54 |
 | repositories touched | 9 |
 
-<sub>window: 2025-08-22 to 2026-08-22</sub>
+<sub>window: 2025-08-23 to 2026-08-23</sub>
 
 ## monthly activity
 
@@ -26,19 +26,20 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08    5  █████
+2026-08    6  ██████
 ```
 
 ## repositories
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 25 stars
 
-31 merged · 1 open · 4 closed
+32 merged · 0 open · 5 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
+| 2026-08-22 | merged | +18/-21 | [fix(api): align response types with the backend schemas](https://github.com/c2siorg/dataloom/pull/486) |
 | 2026-08-19 | merged | +623/-540 | [chore: migrate contexts and hooks to TypeScript](https://github.com/c2siorg/dataloom/pull/485) |
-| 2026-08-17 | open | +409/-294 | [chore: migrate the api layer to TypeScript](https://github.com/c2siorg/dataloom/pull/484) |
+| 2026-08-17 | closed | +409/-294 | [chore: migrate the api layer to TypeScript](https://github.com/c2siorg/dataloom/pull/484) |
 | 2026-08-15 | merged | +2627/-160 | [chore: migrate utils, constants and config to TypeScript](https://github.com/c2siorg/dataloom/pull/483) |
 | 2026-08-11 | closed | +0/-0 | [feat: downloadable PDF project reports](https://github.com/c2siorg/dataloom/pull/482) |
 | 2026-07-30 | merged | +2557/-115 | [feat: reusable transformation pipelines](https://github.com/c2siorg/dataloom/pull/474) |
@@ -97,7 +98,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25745 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25757 stars
 
 1 merged · 0 open · 0 closed
 
@@ -105,7 +106,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1246 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1248 stars
 
 1 merged · 0 open · 0 closed
 
@@ -130,7 +131,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11162 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11163 stars
 
 0 merged · 0 open · 1 closed
 
@@ -146,4 +147,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-22</sub>
+<sub>last updated 2026-08-23</sub>
