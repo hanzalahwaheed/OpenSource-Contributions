@@ -6,12 +6,12 @@
 
 | metric | count |
 | --- | ---: |
-| merged pull requests | 42 |
-| pull requests opened | 53 |
+| merged pull requests | 43 |
+| pull requests opened | 54 |
 | issues filed | 54 |
-| repositories touched | 9 |
+| repositories touched | 10 |
 
-<sub>window: 2025-08-23 to 2026-08-23</sub>
+<sub>window: 2025-08-24 to 2026-08-24</sub>
 
 ## monthly activity
 
@@ -26,7 +26,7 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08    6  ██████
+2026-08    7  ███████
 ```
 
 ## repositories
@@ -98,7 +98,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25757 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25765 stars
 
 1 merged · 0 open · 0 closed
 
@@ -122,6 +122,14 @@
 | --- | --- | ---: | --- |
 | 2026-02-19 | merged | +3/-3 | [Update CircuitVerse YouTube Channel link](https://github.com/CircuitVerse/CircuitVerseDocs/pull/527) |
 
+### [c2siorg/GSoC](https://github.com/c2siorg/GSoC) · 12 stars
+
+1 merged · 0 open · 0 closed
+
+| date | state | diff | title |
+| --- | --- | ---: | --- |
+| 2026-08-23 | merged | +126/-11 | [Update 05-Hanzalah-Waheed-DataLoom.md](https://github.com/c2siorg/GSoC/pull/37) |
+
 ### [c2siorg/c2siorg.github.io](https://github.com/c2siorg/c2siorg.github.io) · 3 stars
 
 1 merged · 1 open · 0 closed
@@ -131,7 +139,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11163 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11165 stars
 
 0 merged · 0 open · 1 closed
 
@@ -147,4 +155,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-23</sub>
+<sub>last updated 2026-08-24</sub>
