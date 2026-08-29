@@ -7,16 +7,15 @@
 | metric | count |
 | --- | ---: |
 | merged pull requests | 46 |
-| pull requests opened | 57 |
-| issues filed | 54 |
+| pull requests opened | 58 |
+| issues filed | 53 |
 | repositories touched | 10 |
 
-<sub>window: 2025-08-28 to 2026-08-28</sub>
+<sub>window: 2025-08-29 to 2026-08-29</sub>
 
 ## monthly activity
 
 ```
-2025-08    1  █
 2025-10   14  ██████████████
 2025-12    2  ██
 2026-01    1  █
@@ -26,17 +25,18 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08   10  ██████████
+2026-08   11  ███████████
 ```
 
 ## repositories
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 26 stars
 
-35 merged · 0 open · 5 closed
+35 merged · 1 open · 5 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
+| 2026-08-29 | open | +113/-61 | [chore: migrate the Homescreen and DataScreen to TypeScript](https://github.com/c2siorg/dataloom/pull/498) |
 | 2026-08-27 | merged | +11/-0 | [docs: clarify that issue assignment is not required](https://github.com/c2siorg/dataloom/pull/494) |
 | 2026-08-27 | merged | +109/-100 | [chore: migrate the app shell to TypeScript](https://github.com/c2siorg/dataloom/pull/491) |
 | 2026-08-24 | merged | +131/-67 | [chore: migrate the common components to TypeScript](https://github.com/c2siorg/dataloom/pull/490) |
@@ -78,7 +78,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18231 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18232 stars
 
 4 merged · 0 open · 2 closed
 
@@ -101,7 +101,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25780 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25786 stars
 
 1 merged · 0 open · 0 closed
 
@@ -158,4 +158,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-28</sub>
+<sub>last updated 2026-08-29</sub>
