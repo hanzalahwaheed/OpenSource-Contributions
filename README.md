@@ -6,12 +6,12 @@
 
 | metric | count |
 | --- | ---: |
-| merged pull requests | 47 |
-| pull requests opened | 58 |
+| merged pull requests | 48 |
+| pull requests opened | 59 |
 | issues filed | 53 |
 | repositories touched | 10 |
 
-<sub>window: 2025-08-30 to 2026-08-30</sub>
+<sub>window: 2025-08-31 to 2026-08-31</sub>
 
 ## monthly activity
 
@@ -25,17 +25,18 @@
 2026-05   13  █████████████
 2026-06   23  ███████████████████████
 2026-07   14  ██████████████
-2026-08   11  ███████████
+2026-08   12  ████████████
 ```
 
 ## repositories
 
 ### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 26 stars
 
-36 merged · 0 open · 5 closed
+37 merged · 0 open · 5 closed
 
 | date | state | diff | title |
 | --- | --- | ---: | --- |
+| 2026-08-30 | merged | +633/-252 | [chore: finish the TypeScript migration and lock it in](https://github.com/c2siorg/dataloom/pull/502) |
 | 2026-08-29 | merged | +113/-61 | [chore: migrate the Homescreen and DataScreen to TypeScript](https://github.com/c2siorg/dataloom/pull/498) |
 | 2026-08-27 | merged | +11/-0 | [docs: clarify that issue assignment is not required](https://github.com/c2siorg/dataloom/pull/494) |
 | 2026-08-27 | merged | +109/-100 | [chore: migrate the app shell to TypeScript](https://github.com/c2siorg/dataloom/pull/491) |
@@ -101,7 +102,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25790 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25797 stars
 
 1 merged · 0 open · 0 closed
 
@@ -109,7 +110,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1249 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1251 stars
 
 1 merged · 0 open · 0 closed
 
@@ -142,7 +143,7 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11170 stars
+### [tambo-ai/tambo](https://github.com/tambo-ai/tambo) · 11169 stars
 
 0 merged · 0 open · 1 closed
 
@@ -158,4 +159,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-08-30</sub>
+<sub>last updated 2026-08-31</sub>
