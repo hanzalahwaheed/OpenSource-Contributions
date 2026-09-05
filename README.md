@@ -11,7 +11,7 @@
 | issues filed | 53 |
 | repositories touched | 10 |
 
-<sub>window: 2025-09-04 to 2026-09-04</sub>
+<sub>window: 2025-09-05 to 2026-09-05</sub>
 
 ## monthly activity
 
@@ -30,7 +30,7 @@
 
 ## repositories
 
-### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 26 stars
+### [c2siorg/dataloom](https://github.com/c2siorg/dataloom) · 28 stars
 
 37 merged · 0 open · 5 closed
 
@@ -79,7 +79,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18235 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18238 stars
 
 4 merged · 0 open · 2 closed
 
@@ -102,7 +102,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25834 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25842 stars
 
 1 merged · 0 open · 0 closed
 
@@ -159,4 +159,4 @@
 | --- | --- | ---: | --- |
 | 2025-10-30 | closed | +850/-878 | [chore: refactor into a form-group component](https://github.com/interledger/rafiki/pull/3735) |
 
-<sub>last updated 2026-09-04</sub>
+<sub>last updated 2026-09-05</sub>
