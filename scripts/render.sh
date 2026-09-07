@@ -77,7 +77,9 @@ jq -n \
   --arg from "$FROM_DATE" \
   --arg today "$TODAY" \
   -r '
-  ($prs[0]) as $p
+  # Closed PRs are intentionally omitted because they add no useful signal
+  # to the public contribution summary.
+  ($prs[0] | map(select(.state != "CLOSED"))) as $p
   | ($issues[0]) as $i
   | ($p | map(select(.state == "MERGED"))) as $merged
 
@@ -95,7 +97,6 @@ jq -n \
           stars: .[0].repository.stargazerCount,
           merged: (map(select(.state == "MERGED")) | length),
           open:   (map(select(.state == "OPEN"))   | length),
-          closed: (map(select(.state == "CLOSED")) | length),
           prs: (sort_by(.createdAt) | reverse)
         })
       | sort_by(-.merged, -.stars)) as $repos
@@ -109,7 +110,7 @@ jq -n \
     "| metric | count |",
     "| --- | ---: |",
     "| merged pull requests | \($merged | length) |",
-    "| pull requests opened | \($p | length) |",
+    "| pull requests included | \($p | length) |",
     "| issues filed | \($i | length) |",
     "| repositories touched | \($repos | length) |",
     "",
@@ -126,7 +127,7 @@ jq -n \
     ($repos[] |
       "### [\(.repo)](\(.url)) · \(.stars) stars",
       "",
-      "\(.merged) merged · \(.open) open · \(.closed) closed",
+      "\(.merged) merged · \(.open) open",
       "",
       "| date | state | diff | title |",
       "| --- | --- | ---: | --- |",
