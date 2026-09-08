@@ -11,7 +11,7 @@
 | issues filed | 53 |
 | repositories touched | 8 |
 
-<sub>window: 2025-09-07 to 2026-09-07</sub>
+<sub>window: 2025-09-08 to 2026-09-08</sub>
 
 ## monthly activity
 
@@ -73,7 +73,7 @@
 | 2026-02-26 | merged | +83/-17 | [feat: add form-error-alert component and use-error hook implementations](https://github.com/c2siorg/dataloom/pull/111) |
 | 2026-02-26 | merged | +24/-55 | [Feat/transform endpoint](https://github.com/c2siorg/dataloom/pull/108) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18244 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18245 stars
 
 4 merged · 0 open
 
@@ -93,7 +93,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 25860 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 25859 stars
 
 1 merged · 0 open
 
@@ -134,4 +134,4 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-<sub>last updated 2026-09-07</sub>
+<sub>last updated 2026-09-08</sub>
