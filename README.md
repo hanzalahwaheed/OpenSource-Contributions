@@ -11,7 +11,7 @@
 | issues filed | 52 |
 | repositories touched | 8 |
 
-<sub>window: 2025-10-19 to 2026-10-19</sub>
+<sub>window: 2025-10-20 to 2026-10-20</sub>
 
 ## monthly activity
 
@@ -84,7 +84,7 @@
 | 2026-02-23 | merged | +12/-4 | [Add keyboard shortcut to focus algolia search input box.](https://github.com/precice/precice.github.io/pull/790) |
 | 2026-02-22 | merged | +10/-5 | [Add jekyll-mermaid to conditionally render Mermaid graphs](https://github.com/precice/precice.github.io/pull/726) |
 
-### [zulip/zulip](https://github.com/zulip/zulip) · 26069 stars
+### [zulip/zulip](https://github.com/zulip/zulip) · 26080 stars
 
 1 merged · 0 open
 
@@ -92,7 +92,7 @@
 | --- | --- | ---: | --- |
 | 2025-12-20 | merged | +14/-6 | [disable "Deactivate user" btn for sole owner and show tooltip](https://github.com/zulip/zulip/pull/37166) |
 
-### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18324 stars
+### [arc53/DocsGPT](https://github.com/arc53/DocsGPT) · 18326 stars
 
 1 merged · 0 open
 
@@ -100,7 +100,7 @@
 | --- | --- | ---: | --- |
 | 2025-10-27 | merged | +1/-0 | [feat: add bg blur for modals](https://github.com/arc53/DocsGPT/pull/2110) |
 
-### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1282 stars
+### [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) · 1283 stars
 
 1 merged · 0 open
 
@@ -133,4 +133,4 @@
 | 2026-04-06 | open | +4/-4 | [Updated Twitter logo and branding to X in footer](https://github.com/c2siorg/c2siorg.github.io/pull/22) |
 | 2026-02-24 | merged | +2/-1 | [Fix accordion icon state to match expanded/collapsed panels](https://github.com/c2siorg/c2siorg.github.io/pull/17) |
 
-<sub>last updated 2026-10-19</sub>
+<sub>last updated 2026-10-20</sub>
